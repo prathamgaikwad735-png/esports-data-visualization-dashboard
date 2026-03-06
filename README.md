@@ -24,9 +24,6 @@ Power BI dashboard analyzing Global Gaming &amp; Esports Growth (2010–2025), f
 - Microsoft Excel for data cleaning and preparation
 - Power BI for data visualization and dashboard development
 
-## Dashboard Preview
-- Add the screenshot of your Power BI dashboard here
-
 ## Business Impact
 - Helps gaming companies identify high growth regions
 - Helps investors understand gaming market trends
