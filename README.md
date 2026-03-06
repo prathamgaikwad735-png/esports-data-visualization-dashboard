@@ -6,11 +6,11 @@ The dashboard focuses on key metrics such as gaming revenue, esports tournaments
 The goal of this project is to understand how the gaming ecosystem has evolved and identify industry trends, regional performance, and dominant gaming genres using data visualization.
 
 🎯 Objectives
-Analyze global gaming revenue trends (2010–2025)
-Study the growth of esports tournaments and viewership
-Compare performance of gaming platforms (PC, Console, Mobile)
-Identify popular gaming genres
-Provide insights useful for gaming companies, investors, and developers
+ Analyze global gaming revenue trends from 2010 to 2025
+ Study the growth of esports tournaments and viewers
+ Compare the performance of gaming platforms such as PC, Console, and Mobile
+ Identify the most popular gaming genres
+ Generate insights that can help gaming companies, investors, and developers understand market trends
 ---
 📈 Key Insights
 Gaming revenue shows consistent growth from 2010 to 2025.
