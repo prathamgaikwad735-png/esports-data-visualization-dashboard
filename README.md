@@ -1,4 +1,4 @@
-# GLOBAL GAMIN & ESPORTS GROWTH 2010-2025
+# GLOBAL GAMING & ESPORTS GROWTH 2010-2025 ANALYSIS DASHBOARD
 Power BI dashboard analyzing Global Gaming &amp; Esports Growth (2010–2025), focusing on revenue trends, esports tournaments, viewer growth, platform performance, and genre dominance.
 
 <img width="975" height="520" alt="image" src="https://github.com/user-attachments/assets/240c85df-3d59-4857-8501-2940f5e95668" />
